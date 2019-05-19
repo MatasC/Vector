@@ -107,7 +107,7 @@ std::vector push_back veikimas:
 ```shell
 mano sukurta vector realizacija perskirsto atmintį per 25 kartus kai dirba su 10000000 eilučių failu.  
 
-std::vector realizacija perskirsto atmintį taip pat per čį kartus kai dirba su 10000000 eilučių failu.
+std::vector realizacija perskirsto atmintį taip pat per 25 kartus kai dirba su 10000000 eilučių failu.
 ```
 ## 4 Tyrimas
 Programos veikimo spartos palyginimai tarp std::vector ir vector realizacijų.  
